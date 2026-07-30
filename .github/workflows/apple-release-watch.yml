@@ -29,13 +29,17 @@ jobs:
           TEST_NOTIFY: ${{ inputs.test }}
         run: python3 check.py
 
+      - name: Run extra watchers
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: python3 watchers.py
+
       - name: Commit updated state
         run: |
           if [ -n "$(git status --porcelain)" ]; then
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
-            git add seen.txt .heartbeat
-            git commit -m "Update seen releases"
+            git add -A
+            git commit -m "Update watcher state"
             git push
           fi
-
