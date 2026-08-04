@@ -14,9 +14,6 @@
 07202026i | macOS 27.0 beta 4 (26A5388g)
 07202026j | tvOS 27.0 beta 4 (24J5325d)
 07152026a | App Store Connect API 4.4.1
-06292026a | iOS 26.5.2 (23F84)
-06292026b | iPadOS 26.5.2 (23F84)
-06292026c | macOS 26.5.2 (25F84)
 06252026b | App Store Connect Update
 06252026a | Xcode 26.6 (17F113)
 06182026b | App Store Connect Update
@@ -32,11 +29,11 @@
 06082026g | watchOS 27.0 beta (24R5289n)
 05262026a | iOS 26.6 beta (23G5028e)
 05262026b | iPadOS 26.6 beta (23G5028e)
+05262026c | macOS 26.6 beta (25G5028f)
 05262026d | tvOS 26.6 beta (23L5729e)
 05262026e | visionOS 26.6 beta (23O5728e)
 05262026f | watchOS 26.6 beta (23U5025e)
 05122026a | App Store Connect API 4.3.1
-05112026e | visionOS 26.5 (23O471)
 05112026g | iOS 18.7.9 (22H355)
 05112026h | iPadOS 18.7.9 (22H355)
 05112026i | iPadOS 17.7.11 (21H461)
@@ -48,7 +45,9 @@
 05082026b | iPadOS 26.5 RC 2 (23F77)
 05052026a | App Store Connect Update
 05042026a | iOS 26.5 RC (23F75)
+05042026b | iPadOS 26.5 RC (23F75)
+05042026e | visionOS 26.5 RC (23O471)
+05042026g | iOS 18.7.9 (22H355)
 04162026b | App Store Connect Update
 04012026c | App Store Connect 3.2
 10062025i | Transporter 1.4
-
