@@ -181,7 +181,8 @@
  "signing": {
   "device": "iPhone17,1",
   "signed": {
-   "23G71": "26.6"
+   "23G71": "26.6",
+   "23G83": "26.6.1"
   }
  },
  "system_status": []
