@@ -1,3 +1,4 @@
+08252026a | TestFlight Update
 08102026g | Xcode 27 beta 6 (27A5252f)
 08242026a | iOS 27.0 beta 7 (24A5424a)
 08242026b | iPadOS 27.0 beta 7 (24A5424a)
@@ -11,7 +12,6 @@
 08172026j | macOS 26.6.2 (25G83)
 08172026k | iOS 18.7.10 (22H374)
 08172026l | iPadOS 18.7.10 (22H374)
-08112026a | TestFlight Update
 07272026d | tvOS 26.6 (23L773)
 07272026f | watchOS 26.6 (23U67)
 07212026b | TestFlight 4.3
