@@ -162,6 +162,9 @@
   "ty0avr2s"
  ],
  "newsroom": [
+  "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+  "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here/",
+  "https://www.apple.com/newsroom/2026/09/apples-new-child-safety-features-now-available/",
   "https://www.apple.com/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/",
   "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
   "https://www.apple.com/newsroom/2026/09/apple-advances-health-and-fitness-capabilities-using-apple-intelligence/",
@@ -205,7 +208,8 @@
   "device": "iPhone17,1",
   "signed": {
    "23G83": "26.6.1",
-   "23G90": "26.6.2"
+   "23G90": "26.6.2",
+   "24A437": "27.0"
   }
  },
  "system_status": []
