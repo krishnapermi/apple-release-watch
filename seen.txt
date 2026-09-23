@@ -1,3 +1,4 @@
+09222026a | App Store Connect API 4.5
 09212026a | iOS 27.2 beta 2 (24B5089g)
 09212026b | iPadOS 27.2 beta 2 (24B5089g)
 09212026c | macOS 27.2 beta 2 (26B5091g)
@@ -26,7 +27,6 @@
 08172026l | iPadOS 18.7.10 (22H374)
 07272026d | tvOS 26.6 (23L773)
 07272026f | watchOS 26.6 (23U67)
-07152026a | App Store Connect API 4.4.1
 06252026a | Xcode 26.6 (17F113)
 06092026a | AirPods beta (9A292e)
 05112026i | iPadOS 17.7.11 (21H461)
