@@ -1,3 +1,4 @@
+09224026a | TestFlight 4.4.0
 09223026a | App Store Connect 3.3
 09222026a | App Store Connect API 4.5
 09212026a | iOS 27.2 beta 2 (24B5089g)
@@ -8,7 +9,6 @@
 09212026f | watchOS 27.2 beta 2 (24S5091f)
 09182026b | TestFlight Update
 09182026a | Xcode 27.1 beta (27A9269)
-09162026h | TestFlight Update
 09162026g | Xcode 27.2 beta (27B5019j)
 09142026i | App Store Connect Update
 09142026h | Xcode 27 (27A266a)
