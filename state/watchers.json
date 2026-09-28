@@ -216,7 +216,8 @@
  "signing": {
   "device": "iPhone17,1",
   "signed": {
-   "24A437": "27.0"
+   "24A437": "27.0",
+   "24A446": "27.0.1"
   }
  },
  "system_status": []
