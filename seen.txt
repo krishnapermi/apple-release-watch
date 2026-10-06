@@ -1,3 +1,4 @@
+10052026h | App Store Connect Update
 10052026a | iOS 27.2 beta 3 (24B5099f)
 10052026b | iPadOS 27.2 beta 3 (24B5099f)
 10052026c | macOS 27.2 beta 3 (26B5101f)
@@ -17,7 +18,6 @@
 09223026a | App Store Connect 3.3
 09222026a | App Store Connect API 4.5
 09182026a | Xcode 27.1 beta (27A9269)
-09142026i | App Store Connect Update
 09142026h | Xcode 27 (27A266a)
 09142026d | tvOS 27.0 (24J361)
 09142026f | watchOS 27.0 (24R364)
