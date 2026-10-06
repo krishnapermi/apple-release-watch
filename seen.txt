@@ -1,3 +1,4 @@
+10062026a | App Store Connect API 4.5.1
 10052026h | App Store Connect Update
 10052026a | iOS 27.2 beta 3 (24B5099f)
 10052026b | iPadOS 27.2 beta 3 (24B5099f)
