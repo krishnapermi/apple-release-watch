@@ -1,11 +1,12 @@
+10132026a | iOS 27.2 beta 4 (24B5110a)
+10132026b | iPadOS 27.2 beta 4 (24B5110a)
+10132026c | macOS 27.2 beta 4 (26B5112a)
+10132026d | visionOS 27.2 beta 4 (24N5114a)
+10132026e | watchOS 27.2 beta 4 (24S5112a)
 10062026a | App Store Connect API 4.5.1
 10052026h | App Store Connect Update
 10052026a | iOS 27.2 beta 3 (24B5099f)
-10052026b | iPadOS 27.2 beta 3 (24B5099f)
-10052026c | macOS 27.2 beta 3 (26B5101f)
 10052026d | tvOS 27.2 beta 3 (24K5103f)
-10052026e | visionOS 27.2 beta 3 (24N5103f)
-10052026f | watchOS 27.2 beta 3 (24S5101f)
 10052026g | Xcode 27.1 RC (27A9275)
 09282026h | TestFlight Update
 09282026e | watchOS 27.0.1 (24R365)
