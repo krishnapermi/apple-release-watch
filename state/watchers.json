@@ -175,6 +175,7 @@
   "ty0avr2s"
  ],
  "newsroom": [
+  "https://www.apple.com/newsroom/2026/10/siri-ai-is-available-in-more-languages-starting-today/",
   "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
   "https://www.apple.com/newsroom/2026/10/iphone-duo-arrives-at-apple-store-locations-worldwide/",
   "https://www.apple.com/newsroom/2026/10/formula-1-united-states-grand-prix-streams-live-on-apple-tv-this-weekend/",
@@ -242,7 +243,8 @@
  "signing": {
   "device": "iPhone17,1",
   "signed": {
-   "24A446": "27.0.1"
+   "24A446": "27.0.1",
+   "24B119": "27.2"
   }
  },
  "system_status": []
