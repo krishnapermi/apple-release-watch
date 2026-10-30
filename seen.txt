@@ -1,3 +1,4 @@
+10292026a | Xcode 27.2 (27B52)
 10262026a | iOS 27.2 (24B91020)
 10262026b | iOS 27.2 (24B119)
 10262026c | iPadOS 27.2 (24B119)
@@ -10,7 +11,6 @@
 10262026j | iPadOS 18.7.11 (22H384)
 10222026a | TestFlight 4.4.1
 10202026a | App Store Connect Update
-10192026g | Xcode 27.2 RC (27B48)
 10152026a | Xcode 27.1 (27A9275)
 10142026c | TestFlight Update
 10062026a | App Store Connect API 4.5.1
