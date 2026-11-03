@@ -1,5 +1,6 @@
 {
  "devnews": [
+  "yxkh08us",
   "w9mxlhek",
   "i9boeiqc",
   "yfo21auu",
@@ -177,6 +178,7 @@
   "ty0avr2s"
  ],
  "newsroom": [
+  "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
   "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/",
   "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
   "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/",
@@ -249,7 +251,6 @@
  "signing": {
   "device": "iPhone17,1",
   "signed": {
-   "24A446": "27.0.1",
    "24B119": "27.2"
   }
  },
