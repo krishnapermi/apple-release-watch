@@ -1,3 +1,4 @@
+11042026b | App Store Connect API 4.6
 11042026a | App Store Connect 3.3.1
 11032026h | TestFlight Update
 11032026g | Xcode 27.3 beta (27C5020n)
