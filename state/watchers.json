@@ -181,6 +181,7 @@
   "ty0avr2s"
  ],
  "newsroom": [
+  "https://www.apple.com/newsroom/2026/11/olivia-dean-is-apple-musics-artist-of-the-year-for-2026/",
   "https://www.apple.com/newsroom/2026/11/redesigned-health-app-expands-language-support/",
   "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
   "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/",
@@ -255,7 +256,8 @@
  "signing": {
   "device": "iPhone17,1",
   "signed": {
-   "24B119": "27.2"
+   "24B119": "27.2",
+   "24B156": "27.2.1"
   }
  },
  "system_status": []
