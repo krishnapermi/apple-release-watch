@@ -1,3 +1,4 @@
+11132026a | tvOS 27.2.1 (24K157)
 11122026a | HomeView Software 27.2 (24V526)
 11092026a | iOS 27.2.1 (24B91034)
 11092026b | iOS 27.2.1 (24B156)
@@ -20,7 +21,6 @@
 11032026f | watchOS 27.3 beta (24S5284h)
 10302026a | App Store Connect Update
 10292026a | Xcode 27.2 (27B52)
-10262026e | tvOS 27.2 (24K122)
 10222026a | TestFlight 4.4.1
 10152026a | Xcode 27.1 (27A9275)
 10052026d | tvOS 27.2 beta 3 (24K5103f)
