@@ -1,3 +1,4 @@
+11182026a | HomeView Software 27.2.1 (24V553)
 11162026h | TestFlight Update
 11162026g | Xcode 27.3 beta 2 (27C5035i)
 11162026a | iOS 27.3 beta 2 (24C5049d)
@@ -7,7 +8,6 @@
 11162026e | visionOS 27.3 beta 2 (24N5298d)
 11162026f | watchOS 27.3 beta 2 (24S5296d)
 11132026a | tvOS 27.2.1 (24K157)
-11122026a | HomeView Software 27.2 (24V526)
 11092026a | iOS 27.2.1 (24B91034)
 11092026b | iOS 27.2.1 (24B156)
 11092026c | iPadOS 27.2.1 (24B156)
