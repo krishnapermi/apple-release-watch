@@ -1,9 +1,9 @@
+11192026a | iOS 27.3 beta 2 v2 (24C5049f)
+11192026b | iPadOS 27.3 beta 2 v2 (24C5049f)
 11182026b | App Store Connect API 4.6.1
 11182026a | HomeView Software 27.2.1 (24V553)
 11162026h | TestFlight Update
 11162026g | Xcode 27.3 beta 2 (27C5035i)
-11162026a | iOS 27.3 beta 2 (24C5049d)
-11162026b | iPadOS 27.3 beta 2 (24C5049d)
 11162026c | macOS 27.3 beta 2 (26C5047e)
 11162026d | tvOS 27.3 beta 2 (24K5298d)
 11162026e | visionOS 27.3 beta 2 (24N5298d)
